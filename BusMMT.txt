@@ -1,2 +1,5 @@
 Scenario 1: book a bus ticket for kerala
 Scenario 2: book a bus ticket for tamilnadu
+
+Scenario 3: book a bus for chennai
+Scenario 4: cancel the bus ticket
