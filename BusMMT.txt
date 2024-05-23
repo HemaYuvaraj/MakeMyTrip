@@ -7,3 +7,5 @@ Scenario 4: cancel the bus ticket
 Scenario 5: book a bus ticket 
 Scenario 6: cancel the bus ticket to kerala
 //BUS
+scenario 8: book a bus ticket to tamilnadu
+scenario 9: cancel a book ticket
